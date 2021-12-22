@@ -7,15 +7,15 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 ✨ Languages: English, German, Turkish(native)
 
-✨ Programming Languages: Javascript
+✨ Programming Languages: JavaScript, TypeScript
 
-✨ Front-End Development:React, Javascript, NextJS, HTML, CSS, TailwindCSS, JQuery
+✨ Front-End Development:  ReactJS, NextJS, HTML, CSS, TailwindCSS
 
-✨ Back-End Development: Node.js, MongoDB, Express
+✨ Back-End Development: NodeJS, MongoDB,SQL, Express, , JQuery
 
 ## 📫 How to reach me: <br>
 
-<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/azat-seyrek-8197801a3/'>AzatSeyrek</a>
+<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/azatseyrek/'>AzatSeyrek</a>
 
                               🌱🌱🌱To understand the future, I learn programming.⚡⚡⚡
                                         
