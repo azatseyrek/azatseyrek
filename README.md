@@ -8,7 +8,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 ✨ Programming Languages: JavaScript, TypeScript
 
-✨ Front-End Development:  ReactJS, NextJS, HTML, CSS,SASS. SCSS, MaterialUI, TailwindCSS
+✨ Front-End Development: Angular, ReactJS, NextJS, HTML, CSS,SASS. SCSS, MaterialUI, TailwindCSS
 
 ✨ Back-End Development: NodeJS, MongoDB, SQL, Express
 
